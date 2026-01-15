@@ -33,28 +33,81 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 
 ---
 
-# 📝 Publications / Preprints
+# 📝 Publications
 
-> Note: The list below is organized from the CV image you provided. I can help fill in authors, links, BibTeX, and code repos if you share them.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-### Prompt Optimization
-- **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models** *(EMNLP 2025)*  
-  - Proposes **PMPO**, a token-level scoring and reward-model-driven framework that unifies *low-quality prompt diagnosis → sample generation → policy rewrite*.  
-  - Improves accuracy on BBH-style tasks and increases win-rate on AlpacaEval 2.0, demonstrating scalability across small and large models.
+**PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**
 
-- **Gradient-Guided Multi-Judge Prompt Optimization** *(ACL 2026, under review)*  
-  - Addresses overfitting to a single judge and poor transferability via multi-judge feedback with gradient-guided refinement.  
-  - Achieves stable gains on math reasoning, language understanding, and instruction following under a ~0.11M token optimization budget.
+**Chenzhuo Zhao**, ...
 
-### Evaluation / Benchmarking
-- **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models** *(AAAI 2025)*  
-  - Targets tokenization-induced bias and systematic evaluation gaps in multilingual settings with a structured benchmark and scalable data-generation pipeline.  
-  - Builds a 36k test set and analyzes mechanisms using GRPO-trained Qwen2.5-14B.
+[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
-### RLVR / Post-training
-- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR** *(ACL 2026, under review)*  
-  - Proposes **ARPO** for hard instances under group-relative rewards, combining answer-refined prompts with off-policy shaping to improve learning signals.  
-  - Mitigates training stalls caused by all-zero groups; improves pass@1 on Qwen2.5-Math-7B (e.g., 37.61→40.38) and boosts small-model performance.
+- Propose **PMPO**, a token-level scoring & reward-model-driven prompt optimization framework.
+- Unifies *low-quality prompt diagnosis → sample generation → policy rewrite* for both small and large LMs.
+- Improves accuracy on BBH-style tasks and boosts win-rate on AlpacaEval 2.0.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**
+
+**Chenzhuo Zhao**, ...
+
+[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+
+- Introduce a structured evaluation benchmark for multilingual LMs, addressing tokenization-induced bias.
+- Build a scalable data-generation pipeline and a **36k** test set.
+- Analyze mechanisms with GRPO-trained Qwen2.5-14B.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**
+
+**Chenzhuo Zhao**, ...
+
+[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+
+- Propose **ARPO** to improve learning from hard instances under group-relative rewards in RLVR.
+- Combine answer-refined prompting with off-policy shaping to mitigate training stalls (e.g., all-zero groups).
+- Improve pass@1 on Qwen2.5-Math-7B (e.g., **37.61 → 40.38**).
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Gradient-Guided Multi-Judge Prompt Optimization**
+
+**Chenzhuo Zhao**, ...
+
+[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+
+- Use multi-judge feedback to reduce overfitting to a single evaluator and improve transferability.
+- Introduce gradient-guided refinement for more stable prompt updates.
+- Achieve consistent gains on math reasoning, language understanding, and instruction following tasks.
+
+</div>
+</div>
+
+
+- **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**, Chenzhuo Zhao, ... **EMNLP 2025**
+- **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**, Chenzhuo Zhao, ... **AAAI 2025**
+- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, Chenzhuo Zhao, ... **ACL 2026**
+- **Gradient-Guided Multi-Judge Prompt Optimization**, Chenzhuo Zhao, ... **ACL 2026**
+
 
 ---
 
