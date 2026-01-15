@@ -69,7 +69,7 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**
@@ -86,7 +86,7 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Gradient-Guided Multi-Judge Prompt Optimization**
@@ -105,8 +105,9 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 
 - **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**, Chenzhuo Zhao, ... **EMNLP 2025**
 - **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**, Chenzhuo Zhao, ... **AAAI 2025**
-- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, Chenzhuo Zhao, ... **ACL 2026**
-- **Gradient-Guided Multi-Judge Prompt Optimization**, Chenzhuo Zhao, ... **ACL 2026**
+- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, Chenzhuo Zhao, ... **ACL 2026 (Under Review)**
+- **Gradient-Guided Multi-Judge Prompt Optimization**, Chenzhuo Zhao, ... **ACL 2026 (Under Review)**
+
 
 
 ---
