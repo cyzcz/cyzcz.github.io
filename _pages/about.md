@@ -103,10 +103,14 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 </div>
 
 
-- **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**, Chenzhuo Zhao, ... **EMNLP 2025**
-- **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**, Chenzhuo Zhao, ... **AAAI 2025**
-- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, Chenzhuo Zhao, ... **ACL 2026 (Under Review)**
-- **Gradient-Guided Multi-Judge Prompt Optimization**, Chenzhuo Zhao, ... **ACL 2026 (Under Review)**
+- **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**, **Chenzhuo Zhao**, Ziqian Liu, Xinda Wang, Junting Lu, Chaoyi Ruan **EMNLP 2025**
+- **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**, **Chenzhuo Zhao**, Xinda Wang, Yue Huang, Junting Lu, Ziqian Liu **AAAI 2025**
+- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, **ChenZhuo Zhao**, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, Xinda Wang, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang **ACL 2026 (Under Review)**
+- **Gradient-Guided Multi-Judge Prompt Optimization**, **ChenZhuo Zhao**, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang **ACL 2026 (Under Review)**
+- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, **ChenZhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao **ACL 2026 (Under Review)**
+- **Triviality Corrected Endogenous Reward**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, **ChenZhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao **ACL 2026 (Under Review)**
+- **MedReflect: Teaching Medical LLMs to Self-Improve via Reflective Correction**, Yue Huang, Yanyuan Chen, Dexuan Xu, **ChenZhuo Zhao**, Weihua Yue, Yu Huang **ACL 2026 (Under Review)**
+
 
 
 
