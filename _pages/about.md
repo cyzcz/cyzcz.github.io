@@ -144,7 +144,7 @@ Additional manuscripts are in progress, with planned submissions to **ICML** (se
 
 # 💻 Experience
 
-### Microsoft — LLM Research Intern, Search & Distribution Group
+### Microsoft — LLM Research Intern, STCA
 *Sep 2025 – Present*  
 - Work on post-training with verifiable feedback, tackling **sparse learning signals**, **training instability**, and **upper-bound bottlenecks**. Responsible for training design, experiments/ablations, evaluation, and diagnostics.  
 - **Learning-signal enhancement**: explore ARPO-style strategies to better exploit supervision/reference information under strict verification rewards without changing the main framework.  
