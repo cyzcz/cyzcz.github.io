@@ -150,7 +150,7 @@ Additional manuscripts are in progress, with planned submissions to **ICML** (se
 - **Learning-signal enhancement**: explore ARPO-style strategies to better exploit supervision/reference information under strict verification rewards without changing the main framework.  
 - **Process-signal / credit assignment**: propose finer-grained credit assignment using structured intermediate reasoning states to better control advantage/reward allocation.
 
-### Xiaohongshu (RED) — LLM Algorithm Intern, AI Platform
+### Xiaohongshu — LLM Algorithm Intern, AI Platform
 *Feb 2025 – Jul 2025*  
 - Improve search Query understanding under sparse/noisy user intent signals; focus on an interpretable, end-to-end pipeline from **Query understanding → recall enhancement → review/risk identification**, and ship optimizations online.  
 - **Query understanding & recall**: iterate QueryNER with online incremental learning and hot updates; low-resource multi-domain hard-example mining and data augmentation; adopt LLM-as-Judge for data quality; SFT+GRPO on Qwen2.5-14B, reaching ~82.1% recognition accuracy and >10% gains in online/offline F1.  
