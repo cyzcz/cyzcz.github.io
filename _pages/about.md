@@ -23,7 +23,6 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 
 - Email: `cyczzhao@gmail.com`
 - Phone: `177-8297-1779`
-- Party membership: CPC
 
 ---
 
