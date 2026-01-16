@@ -110,7 +110,7 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 - **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, **ChenZhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao **ACL 2026 (Under Review)**
 - **Triviality Corrected Endogenous Reward**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, **ChenZhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao **ACL 2026 (Under Review)**
 - **MedReflect: Teaching Medical LLMs to Self-Improve via Reflective Correction**, Yue Huang, Yanyuan Chen, Dexuan Xu, **ChenZhuo Zhao**, Weihua Yue, Yu Huang **ACL 2026 (Under Review)**
-
+- **DisRec: Intra-Visit Disease Diagnosis as Recommendation**, Xinda Wang, Hongzhi Liu, **ChenZhuo Zhao**, wenhao zhang **IJCAI 2026 (Under Review)**
 
 
 
