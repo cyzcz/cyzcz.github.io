@@ -44,7 +44,7 @@ I am currently interested in the following work directions:
 
 **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**
 
-**Chenzhuo Zhao**, ...
+**Chenzhuo Zhao**, Ziqian Liu, Xinda Wang, Junting Lu, Chaoyi Ruan
 
 [**Paper**](#)  <strong><span class='show_paper_citations' data=''></span></strong>
 
@@ -61,7 +61,7 @@ I am currently interested in the following work directions:
 
 **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**
 
-**Chenzhuo Zhao**, ...
+**Chenzhuo Zhao**, Xinda Wang, Yue Huang, Junting Lu, Ziqian Liu
 
 [**Paper**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
@@ -78,7 +78,7 @@ I am currently interested in the following work directions:
 
 **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**
 
-**Chenzhuo Zhao**, ...
+**ChenZhuo Zhao**, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, Xinda Wang, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 
 [**Paper**](#)  <strong><span class='show_paper_citations' data=''></span></strong>
 
@@ -95,7 +95,7 @@ I am currently interested in the following work directions:
 
 **Gradient-Guided Multi-Judge Prompt Optimization**
 
-**Chenzhuo Zhao**, ...
+**ChenZhuo Zhao**, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 
 [**Paper**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
