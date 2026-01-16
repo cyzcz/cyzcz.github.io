@@ -39,14 +39,14 @@ I am currently interested in the following work directions:
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PMPO.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**
 
 **Chenzhuo Zhao**, ...
 
-[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#)  <strong><span class='show_paper_citations' data=''></span></strong>
 
 - Propose **PMPO**, a token-level scoring & reward-model-driven prompt optimization framework.
 - Unifies *low-quality prompt diagnosis → sample generation → policy rewrite* for both small and large LMs.
@@ -56,14 +56,14 @@ I am currently interested in the following work directions:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tase.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**
 
 **Chenzhuo Zhao**, ...
 
-[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
 - Introduce a structured evaluation benchmark for multilingual LMs, addressing tokenization-induced bias.
 - Build a scalable data-generation pipeline and a **36k** test set.
@@ -73,14 +73,14 @@ I am currently interested in the following work directions:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/ARPO.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**
 
 **Chenzhuo Zhao**, ...
 
-[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#)  <strong><span class='show_paper_citations' data=''></span></strong>
 
 - Propose **ARPO** to improve learning from hard instances under group-relative rewards in RLVR.
 - Combine answer-refined prompting with off-policy shaping to mitigate training stalls (e.g., all-zero groups).
@@ -90,14 +90,14 @@ I am currently interested in the following work directions:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/500x300.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/gmpo.png' alt="paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Gradient-Guided Multi-Judge Prompt Optimization**
 
 **Chenzhuo Zhao**, ...
 
-[**Paper**](#) \| [**Project**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
 - Use multi-judge feedback to reduce overfitting to a single evaluator and improve transferability.
 - Introduce gradient-guided refinement for more stable prompt updates.
