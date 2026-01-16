@@ -132,7 +132,7 @@ Additional manuscripts are in progress, with planned submissions to **ICML** (se
 ---
 
 # 📖 Education
-- **Peking University** — M.E., Electronic Information (School of Software & Microelectronics)  
+- **Peking University** — M.E., Software Engineering (School of Software & Microelectronics)  
   *Sep 2024 – Jul 2027*  
   Research: LLM post-training
 
