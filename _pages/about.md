@@ -17,7 +17,7 @@ https://scholar.google.com/citations?user=XXXXXXXXXXX
 
 # 👋 About Me
 
-I am **Chenzhuo Zhao**, currently an **M.E. student in Electronic Information** at **Peking University, School of Software & Microelectronics** (2024.09–2027.07). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU), School of Software** (2020.09–2024.07), ranked **1/313** with **GPA 3.80/4.10**.
+I am **Chenzhuo Zhao**, currently an **M.E. student in Software Engineering** at **Peking University, School of Software & Microelectronics** (2024.09–2027.07). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU), School of Software** (2020.09–2024.07), ranked **1/313** with **GPA 3.80/4.10**.
 
 My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-style methods**, **prompt optimization**, and **evaluation** (multi-judge frameworks, benchmarking).
 
