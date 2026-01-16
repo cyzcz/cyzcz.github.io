@@ -19,16 +19,21 @@ https://scholar.google.com/citations?user=XXXXXXXXXXX
 
 I am **Chenzhuo Zhao**, currently an **M.E. student in Electronic Information** at **Peking University, School of Software & Microelectronics** (2024.09–2027.07). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU), School of Software** (2020.09–2024.07), ranked **1/313** with **GPA 3.80/4.10**.
 
-My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-style methods**, **prompt optimization**, and **evaluation** (multi-judge frameworks, benchmarking), with interests spanning **multilingual** and **multimodal** settings.
+My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-style methods**, **prompt optimization**, and **evaluation** (multi-judge frameworks, benchmarking).
 
 - Email: `cyczzhao@gmail.com`
 - Phone: `177-8297-1779`
 
 ---
+# 💼 Career Interests
 
-# 🔥 News
-- *2026*: Focusing on LLM post-training: stability of RLVR/GRPO, learning signal & reward design, prompt optimization, and evaluation.
-- *2025*: Papers submitted/published at top venues (AAAI / IJCAI / EMNLP / ACL, etc.).
+I am currently interested in the following work directions:
+
+🤖 **Large Language Model Applications**: Developing and deploying practical, production ready applications of LLMs across diverse domains, with an emphasis on real world constraints such as latency, cost, reliability, and user experience.
+
+⚖️ **Large Language Model Alignment**: Aligning LLM behaviors with human values and intentions to build safer, more reliable systems, covering robustness, controllability, and evaluation of alignment outcomes.
+
+🧩 **Agentic Systems for Real World Problem Solving**: Building and iterating on LLM powered agents that can plan, use tools, and execute multi step workflows to solve real user problems end to end, with strong attention to verification, safety, and measurable impact.
 
 ---
 
