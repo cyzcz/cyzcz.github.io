@@ -8,7 +8,7 @@
 # Site Settings
 # Site Settings
 title                    : "Chenzhuo Zhao"
-description              : "M.S. candidate in Electronic Information at Peking University. Research focuses on LLM post-training, prompt optimization, and RLVR/GRPO; author/co-author of papers in top-tier venues."
+description              : "M.S. candidate in Electronic Information at Peking University. Research focuses on LLM post-training, prompt optimization, and RLVR."
 repository               : "cyzcz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenzhuo Zhao"
   avatar           : "images/chenzhuozhao.png"
-  bio              : ""
+  bio              : "Peking university"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
