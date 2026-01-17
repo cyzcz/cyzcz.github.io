@@ -29,7 +29,7 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 
 I am currently interested in the following work directions:
 
-🤖 **Large Language Model Applications**: Developing and deploying practical, production ready applications of LLMs across diverse domains, with an emphasis on real world constraints such as latency, cost, reliability, and user experience.
+🤖 **Large Language Model Applications**: Developing and deploying practical, production-ready applications of LLMs across diverse domains, with a focus on solving real-world problems.
 
 ⚖️ **Large Language Model Alignment**: Aligning LLM behaviors with human values and intentions to build safer, more reliable systems, covering robustness, controllability, and evaluation of alignment outcomes.
 
