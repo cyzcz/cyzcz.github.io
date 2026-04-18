@@ -150,7 +150,14 @@ Additional manuscripts are in progress, with planned submissions to **ICML**, **
 
 # 💻 Experience
 
-### ByteDance Seed — LLM Research Intern
+<h3 class="experience-heading">
+  <span class="experience-company-line">
+    <img src="{{ '/images/company-logos/bytedance.svg' | relative_url }}" alt="ByteDance logo" class="experience-logo">
+    <span class="experience-company-name">ByteDance Seed</span>
+  </span>
+  <span class="experience-role-line">LLM Research Intern</span>
+</h3>
+
 *Mar 2026 – Present*
 
 - Work on **Doubao Expert Mode** optimization, covering **reward model design**, **data and training pipeline construction**, **tool-use optimization**, **evaluation**, and **release support**.
@@ -158,7 +165,14 @@ Additional manuscripts are in progress, with planned submissions to **ICML**, **
 - Continuously refine training strategies, data policies, and evaluation loops for complex real-world tasks, while contributing to **Seed Pro** model release integration, validation, and issue diagnosis.
 - Improve **agent tool-use** ability, including tool selection, call decisions, result utilization, and end-to-end task completion quality for multi-step real-world scenarios.
 
-### Microsoft DKI — Research Intern
+<h3 class="experience-heading">
+  <span class="experience-company-line">
+    <img src="{{ '/images/company-logos/microsoft.svg' | relative_url }}" alt="Microsoft logo" class="experience-logo">
+    <span class="experience-company-name">Microsoft DKI</span>
+  </span>
+  <span class="experience-role-line">Research Intern</span>
+</h3>
+
 *Sep 2025 – Mar 2026*
 
 - Focused on **RLVR post-training optimization** under verifiable feedback, targeting **sparse learning signals**, **training instability**, and **performance ceilings**.
@@ -166,7 +180,14 @@ Additional manuscripts are in progress, with planned submissions to **ICML**, **
 - Explored ARPO-style strategies to make better use of supervision and reference information under strict verifiable rewards without expanding data.
 - Investigated finer-grained **credit assignment** based on structured intermediate reasoning states to improve reward allocation and learning control.
 
-### Xiaohongshu — LLM Algorithm Intern, AI Platform
+<h3 class="experience-heading">
+  <span class="experience-company-line">
+    <img src="{{ '/images/company-logos/xiaohongshu.svg' | relative_url }}" alt="Xiaohongshu logo" class="experience-logo">
+    <span class="experience-company-name">Xiaohongshu</span>
+  </span>
+  <span class="experience-role-line">LLM Algorithm Intern, AI Platform</span>
+</h3>
+
 *Feb 2025 – Jul 2025*
 
 - Worked on large-model optimization for **search query understanding**, **recall improvement**, and **ecosystem review/risk identification**, covering the full loop from data construction and model training to online deployment.
@@ -174,7 +195,14 @@ Additional manuscripts are in progress, with planned submissions to **ICML**, **
 - Built a personalized **query rewriting** loop with multi-constraint prompting and user-behavior-driven sample generation; introduced **LLM-as-Judge** for data quality control and used **SFT + GRPO** on **Qwen2.5-14B**, reaching about **82.1%** recognition accuracy and improving online/nearline F1 by more than **10%**.
 - Designed an 8-step structured reasoning template for mixed image-text traffic-diversion detection; fine-tuned **Gemma3-27B** with **SFT + GRPO**, improving task F1 from **0.56** to **0.71**.
 
-### Tencent YouTu Lab — Computer Vision Intern
+<h3 class="experience-heading">
+  <span class="experience-company-line">
+    <img src="{{ '/images/company-logos/tencent.svg' | relative_url }}" alt="Tencent logo" class="experience-logo">
+    <span class="experience-company-name">Tencent YouTu Lab</span>
+  </span>
+  <span class="experience-role-line">Computer Vision Intern</span>
+</h3>
+
 *Apr 2024 – Jan 2025*
 
 - Built and deployed **rPPG-based liveness detection** for palm-payment and face anti-spoofing scenarios, covering method design, cross-scenario transfer, edge deployment, and evaluation.
