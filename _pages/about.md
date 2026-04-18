@@ -17,9 +17,9 @@ https://scholar.google.com/citations?user=XXXXXXXXXXX
 
 # 👋 About Me
 
-I am **Chenzhuo Zhao**, currently an **M.E. student in Software Engineering** at **Peking University, School of Software & Microelectronics** (*Sep 2024 – Jul 2027*). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU), School of Software** (*Sep 2020 – Jul 2024*), ranking **1/313** with a **GPA of 3.80/4.10**.
+I am **Chenzhuo Zhao**, currently an **M.E. student in Software Engineering** at **Peking University, School of Software & Microelectronics** (*Sep 2024 – Jul 2027*). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU)**, ranking **1/313** with a **GPA of 3.80/4.10**.
 
-My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-style methods**, **prompt optimization**, **agentic systems**, and **evaluation**.
+My research focuses on **LLM post-training**, **prompt optimization**, **agentic systems**, and **evaluation**. I have interned at **ByteDance Seed**, **Microsoft DKI**, **Xiaohongshu**, and **Tencent YouTu Lab**, and have authored papers at venues including **EMNLP, AAAI, and ACL**. I am currently on the job market and welcome potential collaborations and opportunities.
 
 - Email: `cyczzhao@gmail.com`
 - Phone: `177-8297-1779`
@@ -28,12 +28,9 @@ My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-styl
 
 # 💼 Research Interests
 
-🤖 **Large Language Model Applications**: Developing and deploying practical, production-ready LLM systems across diverse domains, with a focus on solving real-world problems.
-
 ⚖️ **Large Language Model Alignment**: Aligning LLM behavior with human values and intentions to build safer and more reliable systems, including reward modeling, controllability, robustness, and evaluation.
 
 🧩 **Agentic Systems for Real-World Problem Solving**: Building LLM-powered agents that can plan, use tools, and execute multi-step workflows to solve complex user problems end to end, with strong attention to verification, safety, and measurable impact.
-
 ---
 
 # 📝 Selected Publications
