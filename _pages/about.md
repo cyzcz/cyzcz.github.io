@@ -31,6 +31,7 @@ My research focuses on **LLM post-training**, **prompt optimization**, **agentic
 ⚖️ **Large Language Model Alignment**: Aligning LLM behavior with human values and intentions to build safer and more reliable systems, including reward modeling, controllability, robustness, and evaluation.
 
 🧩 **Agentic Systems for Real-World Problem Solving**: Building LLM-powered agents that can plan, use tools, and execute multi-step workflows to solve complex user problems end to end, with strong attention to verification, safety, and measurable impact.
+
 ---
 
 # 📝 Selected Publications
