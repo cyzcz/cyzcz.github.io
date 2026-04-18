@@ -3,7 +3,7 @@ permalink: /
 title: "Chenzhuo Zhao"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,152 +17,205 @@ https://scholar.google.com/citations?user=XXXXXXXXXXX
 
 # 👋 About Me
 
-I am **Chenzhuo Zhao**, currently an **M.E. student in Software Engineering** at **Peking University, School of Software & Microelectronics** (2024.09–2027.07). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU), School of Software** (2020.09–2024.07), ranked **1/313** with **GPA 3.80/4.10**.
+I am **Chenzhuo Zhao**, currently an **M.E. student in Software Engineering** at **Peking University, School of Software & Microelectronics** (*Sep 2024 – Jul 2027*). I received my B.E. in **Software Engineering** from **Northwestern Polytechnical University (NPU), School of Software** (*Sep 2020 – Jul 2024*), ranking **1/313** with a **GPA of 3.80/4.10**.
 
-My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-style methods**, **prompt optimization**, and **evaluation** (multi-judge frameworks, benchmarking).
+My research focuses on **LLM post-training**, including **RFT / RLVR / GRPO-style methods**, **prompt optimization**, **agentic systems**, and **evaluation**.
 
 - Email: `cyczzhao@gmail.com`
 - Phone: `177-8297-1779`
 
 ---
+
 # 💼 Career Interests
 
-I am currently interested in the following work directions:
+I am currently interested in the following directions:
 
-🤖 **Large Language Model Applications**: Developing and deploying practical, production-ready applications of LLMs across diverse domains, with a focus on solving real-world problems.
+🤖 **Large Language Model Applications**: Developing and deploying practical, production-ready LLM systems across diverse domains, with a focus on solving real-world problems.
 
-⚖️ **Large Language Model Alignment**: Aligning LLM behaviors with human values and intentions to build safer, more reliable systems, covering robustness, controllability, and evaluation of alignment outcomes.
+⚖️ **Large Language Model Alignment**: Aligning LLM behavior with human values and intentions to build safer and more reliable systems, covering robustness, controllability, reward modeling, and evaluation.
 
-🧩 **Agentic Systems for Real World Problem Solving**: Building and iterating on LLM powered agents that can plan, use tools, and execute multi step workflows to solve real user problems end to end, with strong attention to verification, safety, and measurable impact.
+🧩 **Agentic Systems for Real-World Problem Solving**: Building LLM-powered agents that can plan, use tools, and execute multi-step workflows to solve complex user problems end to end, with strong attention to verification, safety, and measurable impact.
 
 ---
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PMPO.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/PMPO.png' alt="PMPO paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**
 
 **Chenzhuo Zhao**, Ziqian Liu, Xinda Wang, Junting Lu, Chaoyi Ruan
 
-[**Paper**](#)  <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
-- Propose **PMPO**, a token-level scoring & reward-model-driven prompt optimization framework.
-- Unifies *low-quality prompt diagnosis → sample generation → policy rewrite* for both small and large LMs.
-- Improves accuracy on BBH-style tasks and boosts win-rate on AlpacaEval 2.0.
+- Proposes **PMPO**, a lightweight prompt optimization framework driven by token-level scoring and reward-model-guided rewriting.
+- Unifies *prompt diagnosis → sample generation → policy rewrite* for both small and large language models.
+- Achieves strong gains on BBH-style tasks and improves win rate on AlpacaEval 2.0.
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tase.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/tase.png' alt="TASE paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**
 
 **Chenzhuo Zhao**, Xinda Wang, Yue Huang, Junting Lu, Ziqian Liu
 
-[**Paper**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#) | [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
-- Introduce a structured evaluation benchmark for multilingual LMs, addressing tokenization-induced bias.
-- Build a scalable data-generation pipeline and a **36k** test set.
-- Analyze mechanisms with GRPO-trained Qwen2.5-14B.
+- Introduces a structured benchmark for multilingual language models, explicitly addressing tokenization-induced bias.
+- Builds a scalable data-generation pipeline and a **36k** test set spanning multiple task types.
+- Analyzes multilingual capability gaps with GRPO-trained Qwen2.5-14B models.
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/ARPO.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/ARPO.png' alt="ARPO paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**
 
-**ChenZhuo Zhao**, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, Xinda Wang, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+**Chenzhuo Zhao**, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, Xinda Wang, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 
-[**Paper**](#)  <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
-- Propose **ARPO** to improve learning from hard instances under group-relative rewards in RLVR.
-- Combine answer-refined prompting with off-policy shaping to mitigate training stalls (e.g., all-zero groups).
-- Improve pass@1 on Qwen2.5-Math-7B (e.g., **37.61 → 40.38**).
+- Proposes **ARPO** to improve learning on hard instances under group-relative rewards in RLVR.
+- Combines answer-refined prompting with controlled off-policy shaping to mitigate training stalls such as all-zero groups.
+- Improves pass@1 on Qwen2.5-Math-7B from **37.61** to **40.38**.
 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/gmpo.png' alt="paper" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/gmpo.png' alt="GMPO paper" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Gradient-Guided Multi-Judge Prompt Optimization**
 
-**ChenZhuo Zhao**, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+**Chenzhuo Zhao**, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
 
-[**Paper**](#) \| [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
+[**Paper**](#) | [**Code**](#) <strong><span class='show_paper_citations' data=''></span></strong>
 
-- Use multi-judge feedback to reduce overfitting to a single evaluator and improve transferability.
-- Introduce gradient-guided refinement for more stable prompt updates.
-- Achieve consistent gains on math reasoning, language understanding, and instruction following tasks.
+- Uses multi-judge feedback to reduce overfitting to a single evaluator and improve transferability.
+- Introduces gradient-guided refinement for more stable and efficient prompt updates.
+- Delivers consistent gains on math reasoning, language understanding, and instruction-following benchmarks.
 
 </div>
 </div>
 
+## Full Publication List
 
-- **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**, **Chenzhuo Zhao**, Ziqian Liu, Xinda Wang, Junting Lu, Chaoyi Ruan **EMNLP 2025**
-- **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**, **Chenzhuo Zhao**, Xinda Wang, Yue Huang, Junting Lu, Ziqian Liu **AAAI 2025**
-- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, **ChenZhuo Zhao**, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, Xinda Wang, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang **ACL 2026 (Under Review)**
-- **Gradient-Guided Multi-Judge Prompt Optimization**, **ChenZhuo Zhao**, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang **ACL 2026 (Under Review)**
-- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, **ChenZhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao **ACL 2026 (Under Review)**
-- **Triviality Corrected Endogenous Reward**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, yanbingren, Jialin Liu, **ChenZhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao **ACL 2026 (Under Review)**
-- **MedReflect: Teaching Medical LLMs to Self-Improve via Reflective Correction**, Yue Huang, Yanyuan Chen, Dexuan Xu, **ChenZhuo Zhao**, Weihua Yue, Yu Huang **ACL 2026 (Under Review)**
-- **DisRec: Intra-Visit Disease Diagnosis as Recommendation**, Xinda Wang, Hongzhi Liu, **ChenZhuo Zhao**, wenhao zhang **IJCAI 2026 (Under Review)**
+- **PMPO: Probabilistic Metric Prompt Optimization for Small and Large Language Models**, **Chenzhuo Zhao**, Ziqian Liu, Xinda Wang, Junting Lu, Chaoyi Ruan. **EMNLP 2025**
+- **TASE: Token Awareness and Structured Evaluation for Multilingual Language Models**, **Chenzhuo Zhao**, Xinda Wang, Yue Huang, Junting Lu, Ziqian Liu. **AAAI 2025**
+- **ARPO: Answer-Refined Policy Optimization for Learning from Hard Instances in Group-Relative RLVR**, **Chenzhuo Zhao**, Pu Zhao, Fangkai Yang, Lu Wang, Qibin Wang, Liqun Li, Xinda Wang, Ran Jia, Xu Chen, Junting Lu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang. **ACL 2026 (Under Review)**
+- **Gradient-Guided Multi-Judge Prompt Optimization**, **Chenzhuo Zhao**, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang. **ACL 2026 (Under Review)**
+- **Process Rewarding via Solution-Space Alignment**, **Chenzhuo Zhao**. **EMNLP 2026 (Under Review)**
+- **SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection**, **Chenzhuo Zhao** (co-first author). **ACM Multimedia 2026 (Under Review)**
+- **PEARL: Perturbation Efficient Alignment Group-Relative Reinforcement Learning**, **Chenzhuo Zhao** (co-first author). **EMNLP 2026 (Under Review)**
+- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, Yanbingren, Jialin Liu, **Chenzhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao. **ACL 2026 (Under Review)**
+- **Triviality Corrected Endogenous Reward**, Xinda Wang, Zhengxu Hou, Yangshijie Zhang, Yanbingren, Jialin Liu, **Chenzhuo Zhao**, Zhibo Yang, Bin-Bin Yang, Feng Xiao. **ACL 2026 (Under Review)**
+- **MedReflect: Teaching Medical LLMs to Self-Improve via Reflective Correction**, Yue Huang, Yanyuan Chen, Dexuan Xu, **Chenzhuo Zhao**, Weihua Yue, Yu Huang. **ACL 2026 (Under Review)**
+- **DisRec: Intra-Visit Disease Diagnosis as Recommendation**, Xinda Wang, Hongzhi Liu, **Chenzhuo Zhao**, Wenhao Zhang. **IJCAI 2026 (Under Review)**
 
-Additional manuscripts are in progress, with planned submissions to **ICML** (second author on one paper),**EMNLP** (first author on one paper), and **ACM Multimedia** (ACMMM) (first author on one paper).
+Additional manuscripts are in progress, with planned submissions to **ICML**, **EMNLP**, and **ACM Multimedia**.
 
 ---
 
 # 🎖 Honors and Awards
-- **National Scholarship** (two consecutive years)
+
+- **National Scholarship** (twice)
 - **Xiaomi Special Scholarship**
 - **Outstanding Student Role Model (Nominee)**, NPU
-- **First-class Scholarship** (three consecutive years)
-- **Outstanding Student**, **Outstanding Communist Youth League Cadre**
-- **National Undergraduate Innovation & Entrepreneurship Project** (excellent completion, two consecutive years)
-- Tencent “**Supernova**” Program — **Excellent Completion**
+- **First-Class Scholarship** (three consecutive years)
+- **Outstanding Student**
+- **Outstanding Communist Youth League Cadre**
+- **National Undergraduate Innovation and Entrepreneurship Project** (excellent completion, twice)
+- Tencent **Supernova Program** — **Excellent Completion**
 
 ---
 
 # 📖 Education
-- **Peking University** — M.E., Software Engineering (School of Software & Microelectronics)  
-  *Sep 2024 – Jul 2027*  
-  Research: LLM post-training
 
-- **Northwestern Polytechnical University (NPU)** — B.E., Software Engineering (School of Software)  
+- **Peking University** — M.E. in Software Engineering, School of Software & Microelectronics  
+  *Sep 2024 – Jul 2027*  
+  Research focus: LLM post-training
+
+- **Northwestern Polytechnical University (NPU)** — B.E. in Software Engineering, School of Software  
   *Sep 2020 – Jul 2024*  
-  GPA: 3.80/4.10 | Rank: 1/313
+  GPA: **3.80/4.10** | Rank: **1/313**
 
 ---
 
 # 💻 Experience
 
-### Microsoft — LLM Research Intern, STCA
-*Sep 2025 – Present*  
-- Work on post-training with verifiable feedback, tackling **sparse learning signals**, **training instability**, and **upper-bound bottlenecks**. Responsible for training design, experiments/ablations, evaluation, and diagnostics.  
-- **Learning-signal enhancement**: explore ARPO-style strategies to better exploit supervision/reference information under strict verification rewards without changing the main framework.  
-- **Process-signal / credit assignment**: propose finer-grained credit assignment using structured intermediate reasoning states to better control advantage/reward allocation.
+<div class='paper-box'><div class='paper-box-image'><div style="display:flex;align-items:center;justify-content:center;background:#fff;padding:12px;min-height:110px;"><img src='https://upload.wikimedia.org/wikipedia/commons/0/07/ByteDance_logo_English.svg' alt='ByteDance logo' style='max-width:90%;max-height:56px;object-fit:contain;'></div></div>
+<div class='paper-box-text' markdown="1">
+
+### ByteDance Seed — LLM Research Intern
+*Mar 2026 – Present*
+
+- Work on **Doubao Expert Mode** optimization, spanning **reward model design**, **data and training pipeline construction**, **tool-use chain optimization**, **evaluation**, and **release support**.
+- **Reward modeling and training pipeline**: design and iterate the reward model for the expert-mode system, building an end-to-end pipeline from data construction and sample processing to training, evaluation, and analysis to improve signal quality and alignment performance.
+- **Expert-model optimization**: continuously refine training strategies, data policies, and evaluation loops for complex real-world tasks, while contributing to **Seed Pro** release integration, validation, and issue diagnosis.
+- **Agent tool-use optimization**: improve tool selection, call decisions, result utilization, and end-to-end task completion quality to increase execution stability and usability in multi-step real-world scenarios.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="display:flex;align-items:center;justify-content:center;background:#fff;padding:12px;min-height:110px;"><img src='https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg' alt='Microsoft logo' style='max-width:90%;max-height:54px;object-fit:contain;'></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Microsoft — Research Intern, DKI
+*Sep 2025 – Mar 2026*
+
+- Focused on **RLVR post-training optimization** under verifiable feedback, targeting **sparse learning signals**, **training instability**, and **performance ceilings**.
+- Responsible for training strategy design, experiment and ablation pipelines, training diagnostics, and reusable recipe development.
+- **Learning-signal enhancement**: explored ARPO-style strategies to make better use of supervision and reference information under strict verifiable rewards, improving stability and upper-bound performance without expanding data.
+- **Process-signal optimization**: investigated finer-grained **credit assignment** based on structured intermediate reasoning states to improve reward allocation and learning control.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="display:flex;align-items:center;justify-content:center;background:#fff;padding:12px;min-height:110px;"><img src='https://upload.wikimedia.org/wikipedia/commons/a/a4/Xiaohongshu_logo%26slogan.png' alt='Xiaohongshu logo' style='max-width:90%;max-height:64px;object-fit:contain;'></div></div>
+<div class='paper-box-text' markdown="1">
 
 ### Xiaohongshu — LLM Algorithm Intern, AI Platform
-*Feb 2025 – Jul 2025*  
-- Improve search Query understanding under sparse/noisy user intent signals; focus on an interpretable, end-to-end pipeline from **Query understanding → recall enhancement → review/risk identification**, and ship optimizations online.  
-- **Query understanding & recall**: iterate QueryNER with online incremental learning and hot updates; low-resource multi-domain hard-example mining and data augmentation; adopt LLM-as-Judge for data quality; SFT+GRPO on Qwen2.5-14B, reaching ~82.1% recognition accuracy and >10% gains in online/offline F1.  
-- **Ecosystem review & routing**: design an 8-step structured reasoning template and multi-metric agreement checks; SFT+GRPO based on Gemma3-27B, boosting routing task F1 from 0.56→0.71 with improved stability.  
-- **Training platform & experimentation**: support engine iterations and large-scale experiments; run DeepSeek 671B LoRA on 64×H20; completed 22,400 experiment groups to support performance/stability optimization and business metric tracking.
+*Feb 2025 – Jul 2025*
 
-### Tencent — Computer Vision Intern, YouTu Lab
-*Apr 2024 – Jan 2025*  
-- Built and deployed rPPG-based face anti-spoofing for payment scenarios: method design, scenario validation, on-device deployment, and evaluation.  
-- **Paper**: propose **EST-rPPG** to address unstable short-window rPPG signals and 3D mask robustness; reliable detection with ~0.13s window (first-author submission).  
-- **Transfer & deployment**: extend rPPG liveness to palm liveness recognition; refactor and deploy the full pipeline; achieved 99.99% accuracy on self-collected data.  
-- **Competition & patents**: 6th place in IJCAI RCPSS unsupervised challenge; filed 3 invention patents covering core method and engineering components.
+- Worked on large-model optimization for **search query understanding**, **recall improvement**, and **ecosystem review/risk identification**, covering the full loop from data construction and model training to online deployment.
+- **Query understanding and recall**: iterated the QueryNER pipeline for long-tail and emerging entities, supported online incremental learning and hot updates, and led relevance modeling improvements for hard boundary and paraphrase cases.
+- Built a personalized **query rewriting** loop with multi-constraint prompting and user-behavior-driven sample generation; introduced **LLM-as-Judge** for data quality control and used **SFT + GRPO** on **Qwen2.5-14B**, reaching about **82.1%** recognition accuracy and improving online/nearline F1 by more than **10%**.
+- **Review and routing**: designed an 8-step structured reasoning template for mixed image-text traffic-diversion detection; fine-tuned **Gemma3-27B** with **SFT + GRPO**, improving task F1 from **0.56** to **0.71** with stronger stability.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div style="display:flex;align-items:center;justify-content:center;background:#fff;padding:12px;min-height:110px;"><img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/Tencent_logo_2017.svg' alt='Tencent logo' style='max-width:90%;max-height:56px;object-fit:contain;'></div></div>
+<div class='paper-box-text' markdown="1">
+
+### Tencent YouTu Lab — Computer Vision Intern
+*Apr 2024 – Jan 2025*
+
+- Built and deployed **rPPG-based liveness detection** for palm-payment and face anti-spoofing scenarios, covering method design, cross-scenario transfer, edge deployment, and evaluation.
+- Proposed **EST-rPPG**, a dual-level liveness method that improves robustness under short temporal windows and 3D mask attacks, enabling reliable detection with an approximately **0.13s** window.
+- Extended face-liveness capability to **palm-liveness recognition**, completed end-to-end pipeline refactoring and on-device acceleration, and achieved **99.99%** accuracy on an in-house palm dataset.
+- Contributed to research writing, scenario validation, and engineering deployment for real payment-security applications.
+
+</div>
+</div>
+
+---
+
+# 🚀 Open-Source Contribution
+
+### EditDeck: From Requirements to Fully Editable Slide Decks
+*GitHub 500+ Stars | Owner*
+
+- Designed and built an **LLM-agent-driven** slide generation and editable reconstruction system.
+- Unified page planning, style generation, outline generation, slide-by-slide rendering, and document packaging into a closed-loop workflow.
+- Combined placeholder capture, MinerU-based asset parsing, geometric matching, and code generation to automatically produce editable **`.pptx`** files.
+- Further improved robustness through runtime-feedback-driven self-repair across multiple generation rounds.
 
 ---
 
